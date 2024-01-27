@@ -48,7 +48,7 @@ app.post('/upload', multer.single('imgfile'), (req, res) => {
 
 // Request and response
 app.get('/', (req, res) => {
-    res.sendFile(src + "/index.html");
+    res.sendFile(src);
 });
 
 
