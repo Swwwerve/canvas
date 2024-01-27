@@ -4,7 +4,7 @@ const port = 8080;
 const path = require('path');   
 const { Storage } = require('@google-cloud/storage');
 const Multer = require('multer');
-const src = path.join(__dirname, "views");
+const src = path.join(__dirname);
 
 app.use(express.static(src));
 
