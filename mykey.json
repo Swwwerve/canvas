@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "dysgraphia-classification",
+  "private_key_id": "faa1a4d451e71444e5ac8144a42201d5eae977d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDc3oKxzfHL/ZC1\nz6dJecAuXi+7WKvBZdcJ6mHWoWxDPqSF9S8oTGXzcJAwtB9DaJDgT67rssmHYyna\nJ4jBHGPihYz2fYh8fla+kGDPceRiHuC5Omjyk9t/ZGzv7DK8BvjQeuc5Q4bm/6oc\nMhq07i/5PgFqgdScRKjYspLF0P5si7S7NhZilsJTvxhQ92BmWgjXJlIZt23rXkbg\nDZkoLZVfFz++UPZhqTrF+Nw8/BZoHZlbEA4Mp0DzjSRXDhdOLzLWD0x6QZbHqsCM\ndvDqbW/PGqRBUBx8sCQpdA0G7jqWkFLPQx/P38tR/89nTKznuLqAEXXLz3evXGEP\ntwMHTrTbAgMBAAECggEAD5Rh1gadEz1oIJhXXa9JDJxCiVhjCSnUsNOHzOV8ZwPm\nBA2m+BSSLnQBX8Yc3HA6+UT1pZTqHUgz6A+uLaesg1/V8SnVX6ljwgkaIxfkEGh1\ng+tTAtAbhWbBPm1D/jpkVlm3sgo0MQWAwNYR8d2epFn+LJP1j4Onq11xTU3a3ITJ\nZ3Sl4gsNwiEUKH6itFkHlslF4Y2I+0R0e+4ysAOZjPoyCQj6MCZZpiNYjArnoyM7\nEQ7qrL4USf+QeQdSAEC7+144GCd5BQOZD81GdqeH9copphQ8WM5LIoDReSjkC4Wa\ntQcJwjMXZK0DjtEeiaT2QFKG5hQWB3gT7seFVZqI0QKBgQDuP0O+gUcmBtPZjDZH\n4vS56XhYWrD4dMOQ3vBARpoofZ2qz9A/t7OfvAovqMPS+aG3Ug9ZjkULr4R3W8pe\nM8N+iDhjsADAEXOw0qN4fzO/5gf0Vkjono4iUw7er/j/G/i9aNxrcEei7ziZTgX/\nhD3BKKcI1QS2lwXTyNIuDa/TywKBgQDtU7/D2vIzNkA+HlHsjcjTJuRYyISRyl2y\n7ZMn5b2vD8QU/PSf0q2Ug5/MIbraAAXTYY+qxn+clhVeMWOLfvawNa8RRMWWQNrY\nRWUk5TQPXPYuNgiqO/+x67yO9w1PZFAdoUzA8wkV20jH/+TtDHR5EmjREjRhaMbj\n4F/m084hMQKBgQC2zhg+3pcnGGoJLMqhkgVReVD8Cmpr2bwNNuKFjybOFsSZweb6\nXQwYboIqW4YWJbDuJqrcfouAEebEZsv6SCGivwb1hqCsvzdT3+vKk1+zyN8lnedH\nhhFtSOnJ+KBHrsDHJOSsE3UEEiYNi46Spndz9Ktl3X1GVM8F17td1uaozQKBgBv6\nWYsPTqo25Q/tpx7KADjURusoiGhfgPhNBaIYdWoj46vNvlDxF0GA2t/Hwi1c/1LS\nF4u8ZuLg1pgKHoAdcZuIWKEiiGCUOLhyReA5nQ+KmAMOn6rh89zXu5znBwyq+L7l\nexTsEdAfz860HhrL8xcq0myDRuWM4pWOp/+gTJahAoGAdkmv4K0mP+zx+sQvSd4D\n1ECEVvUtqqdhg8LG4wXEQbPqqXcq8y7RnpSgzXlGh+0yuIKo0Xa36XsUGPOGX83G\n8XyyMphEW7ByOGf4UNQZZXzo1IIuJwcY6nG5qFn+pkemT80OzIBPRjU7L13bOoNC\nPHTyjsjDrJs0zXEDT6lbAR0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ronav-test@dysgraphia-classification.iam.gserviceaccount.com",
+  "client_id": "108593098280509108972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ronav-test%40dysgraphia-classification.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+  
